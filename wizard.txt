@@ -1,0 +1,17 @@
+﻿name="ophievolkodimod version 1.0 (30/3/19)"
+url="http://ophicusevolution.altervista.org/ophievolkodimod.zip" 
+img="https://ia801501.us.archive.org/10/items/PicsArt012108.55.22/PicsArt_01-21-08.55.22.jpg"
+fanart="https://ia801501.us.archive.org/10/items/PicsArt012108.55.22/icon%20%282%29.jpg"
+description="ophievolkodimod"
+
+name="----- [COLOR red]PULIRE KODI PER AGGIORNARE[/COLOR] ------"
+url="http://bit.ly/2DXbHAf" 
+img="http://bit.ly/2EPeAo3"
+fanart="http://bit.ly/2DX4eBd"
+description="Usa Freshtart per aggiornare la Build."
+
+
+
+
+
+
